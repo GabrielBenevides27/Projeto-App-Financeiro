@@ -1,0 +1,16 @@
+﻿[Layout1]
+Coordinates=371,10,60,36
+
+[lvCategorias]
+Coordinates=10,10,107,212
+Visible=True
+
+[imgVoltarConta]
+Coordinates=258,10,103,58
+
+[imgNovaCategoria]
+Coordinates=127,10,121,58
+
+[]
+Coordinates=23,77,91,36
+

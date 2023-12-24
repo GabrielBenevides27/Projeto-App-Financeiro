@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/10/10 00:16:48.000.903,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/10 00:17:55.000.314,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/10 00:19:33.000.691,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/11/22 20:17:51.000.509,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/11/22 20:22:45.000.165,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.fmx=C:\Delphi\99Money\Flogin.fmx</Transaction>
+    <Transaction>2023/11/22 20:22:45.000.165,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Delphi\99Money\Flogin.pas</Transaction>
+    <Transaction>2023/11/22 20:23:11.000.005,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Delphi\99Money\Money.dproj</Transaction>
+    <Transaction>2023/11/23 21:19:40.000.249,=C:\Delphi\99Money\Units\u99Permissions.pas</Transaction>
+    <Transaction>2023/11/28 12:56:24.000.938,=C:\Delphi\99Money\Unit1.pas</Transaction>
+    <Transaction>2023/11/28 12:58:19.000.653,C:\Delphi\99Money\FPrincipal.fmx=C:\Delphi\99Money\Unit1.fmx</Transaction>
+    <Transaction>2023/11/28 12:58:19.000.653,C:\Delphi\99Money\FPrincipal.pas=C:\Delphi\99Money\Unit1.pas</Transaction>
+    <Transaction>2023/12/03 13:47:12.000.483,=C:\Delphi\99Money\Unit1.pas</Transaction>
+    <Transaction>2023/12/03 13:48:16.000.799,C:\Delphi\99Money\FLancamentos.pas=C:\Delphi\99Money\Unit1.pas</Transaction>
+    <Transaction>2023/12/03 13:48:16.000.799,C:\Delphi\99Money\FLancamentos.fmx=C:\Delphi\99Money\Unit1.fmx</Transaction>
+    <Transaction>2023/12/03 17:23:25.000.120,=C:\Delphi\99Money\Unit1.pas</Transaction>
+    <Transaction>2023/12/04 18:08:25.000.700,=C:\Delphi\99Money\Unit1.pas</Transaction>
+    <Transaction>2023/12/04 18:09:27.000.674,C:\Delphi\99Money\Unit1.fmx=C:\Delphi\99Money\FCadastroLancamentos.fmx</Transaction>
+    <Transaction>2023/12/04 18:09:27.000.674,C:\Delphi\99Money\Unit1.pas=C:\Delphi\99Money\FCadastroLancamentos.pas</Transaction>
+    <Transaction>2023/12/04 21:29:36.000.348,=C:\Delphi\99Money\Unit1.pas</Transaction>
+    <Transaction>2023/12/04 21:30:55.000.370,C:\Delphi\99Money\Unit1.pas=C:\Delphi\99Money\FCategorias.pas</Transaction>
+    <Transaction>2023/12/04 21:30:55.000.370,C:\Delphi\99Money\Unit1.fmx=C:\Delphi\99Money\FCategorias.fmx</Transaction>
+    <Transaction>2023/12/05 00:13:32.000.090,=C:\Delphi\99Money\Unit1.pas</Transaction>
+    <Transaction>2023/12/05 00:14:42.000.111,C:\Delphi\99Money\FCadastroCategoria.fmx=C:\Delphi\99Money\Unit1.fmx</Transaction>
+    <Transaction>2023/12/05 00:14:42.000.111,C:\Delphi\99Money\FCadastroCategoria.pas=C:\Delphi\99Money\Unit1.pas</Transaction>
+    <Transaction>2023/12/05 13:13:37.000.713,=C:\Delphi\99Money\Unit1.pas</Transaction>
+    <Transaction>2023/12/05 13:14:21.000.596,C:\Delphi\99Money\Unit1.pas=C:\Delphi\99Money\FUniMainModule.pas</Transaction>
+    <Transaction>2023/12/05 13:14:21.000.596,C:\Delphi\99Money\Unit1.dfm=C:\Delphi\99Money\FUniMainModule.dfm</Transaction>
+    <Transaction>2023/12/08 15:02:48.000.950,=C:\Delphi\99Money\Unit1.pas</Transaction>
+    <Transaction>2023/12/08 15:15:52.000.024,C:\Delphi\99Money\Classes\cCategorias.pas=C:\Delphi\99Money\Unit1.pas</Transaction>
+    <Transaction>2023/12/09 22:05:24.000.359,C:\Delphi\99Money\Money.dproj=C:\Delphi\99Money\Moneyy.dproj</Transaction>
+    <Transaction>2023/12/09 22:29:29.000.199,=C:\Delphi\99Money\Unit1.pas</Transaction>
+    <Transaction>2023/12/09 22:30:26.000.116,C:\Delphi\99Money\Unit1.pas=C:\Delphi\99Money\Classes\cLancamento.pas</Transaction>
+    <Transaction>2023/12/12 18:05:17.000.672,=C:\Delphi\99Money\Units\uFormat.pas</Transaction>
+    <Transaction>2023/12/12 18:17:10.000.855,C:\Delphi\99Money\Moneyy.dproj=C:\Delphi\99Money\Moneyyy.dproj</Transaction>
+    <Transaction>2023/12/12 21:10:44.000.088,=C:\Delphi\99Money\Unit1.pas</Transaction>
+    <Transaction>2023/12/13 22:05:11.000.315,=C:\Delphi\99Money\Unit1.pas</Transaction>
+    <Transaction>2023/12/13 22:05:32.000.818,C:\Delphi\99Money\Unit1.pas=C:\Delphi\99Money\Classes\cUser.pas</Transaction>
+    <Transaction>2023/12/14 17:10:49.000.408,=C:\Delphi\99Money\Unit1.pas</Transaction>
+    <Transaction>2023/12/14 17:11:46.000.752,C:\Delphi\99Money\Unit1.pas=C:\Delphi\99Money\FComboCategoria.pas</Transaction>
+    <Transaction>2023/12/14 17:11:46.000.752,C:\Delphi\99Money\Unit1.fmx=C:\Delphi\99Money\FComboCategoria.fmx</Transaction>
+    <Transaction>2023/12/14 19:22:01.000.290,=C:\Delphi\99Money\Unit1.pas</Transaction>
+    <Transaction>2023/12/14 19:22:31.000.910,C:\Delphi\99Money\Unit1.fmx=C:\Delphi\99Money\FResumo.fmx</Transaction>
+    <Transaction>2023/12/14 19:22:31.000.910,C:\Delphi\99Money\Unit1.pas=C:\Delphi\99Money\FResumo.pas</Transaction>
+    <Transaction>2023/12/14 20:50:26.000.851,C:\Delphi\99Money\ProjetoMoney.dproj=C:\Delphi\99Money\Moneyyy.dproj</Transaction>
+    <Transaction>2023/12/17 16:46:03.000.819,=C:\Delphi\99Money1\FRotinas.pas</Transaction>
+    <Transaction>2023/12/17 16:57:41.000.260,=C:\Delphi\99Money1\FPlanejamento.pas</Transaction>
+    <Transaction>2023/12/17 17:21:20.000.267,=C:\Delphi\99Money\Unit1.pas</Transaction>
+    <Transaction>2023/12/17 17:23:15.000.819,C:\Delphi\99Money\Classes\cPlanejamento.pas=C:\Delphi\99Money\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="" Android64="R9QR200A6FZ"/>
+	</ActiveMobileDevice>
+</BorlandProject>
