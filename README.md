@@ -1,11 +1,11 @@
 Projeto financeiro 
 
 * Objetivo
- Criar uma app capaz do usuário fazer seu controle financeiro.
+Criar uma app capaz do usuário fazer seu controle financeiro.
 
 * Ferramentas
 1 - Desenvolvido em Delphi (Linguagem Pascal).
- 2 - Banco de dados SQLITE.
+2 - Banco de dados SQLITE.
 
 * Desenvolvimento
 A criação deste app foi realizado junto com o curso disponibilizado pelo curso 99Coders, onde obtive o aprendizado
